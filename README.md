@@ -14,3 +14,5 @@ Results
 * Among all the models i have selected SVM on the basis of Accuracy score and Cross Validation score.
 
 * SVM with 99.4 % accuracy and also F1 score with 99.4 % hasbeen obtained.
+
+In real-time prediction 0-Normal, 1-Suspected, 2-Pathological.
