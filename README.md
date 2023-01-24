@@ -11,8 +11,8 @@ Results
 
 * In this project i have applied Classification algorithms to find out best model to prdict output.
 
-* Among all the models i have selected SVM on the basis of Accuracy score and Cross Validation score.
+* Among all the models i have selected Random Forest Clasifier on the basis of Accuracy score and Cross Validation score.
 
-* SVM with 99.4 % accuracy and also F1 score with 99.4 % hasbeen obtained.
+* Random Forest Clasifie with 97.9 % accuracy and also F1 score with 97.9 % hasbeen obtained.
 
 In real-time prediction 0-Normal, 1-Suspected, 2-Pathological.
